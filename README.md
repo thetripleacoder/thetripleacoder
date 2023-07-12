@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/thetripleacoder)
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 - 👋 Hi, I’m @thetripleacoder
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Full Stack Development
